@@ -6,9 +6,11 @@
   "scripts": {
     "test": "node test.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tuananh/whatday.git"
+  },
   "author": "Tuan Anh Tran <me@tuananh.org> (https://tuananh.org)",
   "license": "MIT",
-  "dependencies": {
-    "debug": "^4.1.1"
-  }
+  "dependencies": {}
 }
