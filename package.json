@@ -1,0 +1,14 @@
+{
+  "name": "whatday",
+  "version": "1.0.0",
+  "description": "find day of week from date",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Tuan Anh Tran <me@tuananh.org> (https://tuananh.org)",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^4.1.1"
+  }
+}
