@@ -1,6 +1,6 @@
 {
   "name": "whatday",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "find day of week from date",
   "main": "index.js",
   "scripts": {
