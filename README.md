@@ -4,10 +4,12 @@ Find day of week from date.
 
 ## Usage
 
-    const whatday = require('whatday)
+```js
+const whatday = require('whatday')
 
-    console.log(whatday('1987-01-08'))
-    > Thursday
+console.log(whatday('1987-01-08'))
+> Thursday
+```
 
 ## License
 
